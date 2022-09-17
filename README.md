@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zmaqutu)](https://github.com/anuraghazra/github-readme-stats)
+[![Zongo's GitHub stats](https://github-readme-stats.vercel.app/api?username=zmaqutu&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **zmaqutu/zmaqutu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
